@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on 演示站点</title>
-        <link>https://Only-Only1.github.io/post/</link>
-        <description>Recent content in Posts on 演示站点</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <copyright>Example Person</copyright>
-        <lastBuildDate>Wed, 16 Apr 2025 22:12:07 +0800</lastBuildDate><atom:link href="https://Only-Only1.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://Only-Only1.github.io/p/test/</link>
-        <pubDate>Wed, 16 Apr 2025 22:12:07 +0800</pubDate>
-        
-        <guid>https://Only-Only1.github.io/p/test/</guid>
-        <description></description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Posts on 演示站点</title>
+    <link>https://Only-Only1.github.io/post/</link>
+    <description>Recent content in Posts on 演示站点</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>Example Person</copyright>
+    <lastBuildDate>Fri, 18 Apr 2025 21:59:02 +0800</lastBuildDate>
+    <atom:link href="https://Only-Only1.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newnewnew</title>
+      <link>https://Only-Only1.github.io/p/newnewnew/</link>
+      <pubDate>Fri, 18 Apr 2025 21:59:02 +0800</pubDate>
+      <guid>https://Only-Only1.github.io/p/newnewnew/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://Only-Only1.github.io/p/test/</link>
+      <pubDate>Wed, 16 Apr 2025 22:12:07 +0800</pubDate>
+      <guid>https://Only-Only1.github.io/p/test/</guid>
+      <description></description>
+    </item>
+  </channel>
 </rss>
